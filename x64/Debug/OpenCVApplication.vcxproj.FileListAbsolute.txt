@@ -1,0 +1,2 @@
+C:\Users\gheor\Desktop\Facultate\CTI An 3\Sem 2\PI\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+C:\Users\gheor\Desktop\Facultate\CTI An 3\Sem 2\PI\OpenCV_App\x64\Debug\OpenCVApplication.exe

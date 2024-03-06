@@ -1,0 +1,14 @@
+﻿  OpenCVApplication.cpp
+C:\Users\gheor\Desktop\Facultate\CTI An 3\Sem 2\PI\OpenCV_App\OpenCVApplication.cpp(645,18): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\gheor\Desktop\Facultate\CTI An 3\Sem 2\PI\OpenCV_App\OpenCVApplication.cpp(646,18): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\gheor\Desktop\Facultate\CTI An 3\Sem 2\PI\OpenCV_App\OpenCVApplication.cpp(647,18): warning C4244: 'initializing': conversion from 'float' to 'uchar', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+  OpenCVApplication.vcxproj -> C:\Users\gheor\Desktop\Facultate\CTI An 3\Sem 2\PI\OpenCV_App\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
